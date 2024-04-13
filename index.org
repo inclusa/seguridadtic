@@ -3,18 +3,24 @@
 
 ** ¿Està realmente clara la normativa?
 
-https://portal.edu.gva.es/ctic/es/coordinacion-tic/#2.1
+*** Respuesta
+
+Sí. Está muy clara como se puede apreciar en la funcamentación
+
+*** Fundamentación
+
+
 
 /RESOLUCIÓN de 27 de junio de 2023, del secretario autonómico de Educación y Formación Profesional, por la que se aprueban las instrucciones para la organización y el funcionamiento de los centros que imparten Educación Infantil de segundo ciclo y Educación Primaria durante el curso 2023-2024. [2023/7350]/
 
-5.5.1. Persona coordinadora de las tecnologías de la información y comunicación (TIC)
+/5.5.1. Persona coordinadora de las tecnologías de la información y comunicación (TIC)/
 
 La persona coordinadora de las tecnologías de la información y comunicación (TIC) debe ejercer las tareas que se indican en el artículo 43.2 del Decreto 253/2019, de 29 de noviembre, del Consell, de regulación de la organización y el funcionamiento de los centros públicos que imparten enseñanzas de Educación Infantil o de Educación Primaria (DOGV 8689, 02.12.2019).
 
 
 /DECRETO 253/2019, de 29 de noviembre, del Consell, de regulación de la organización y el funcionamiento de los centros públicos que imparten enseñanzas de Educación Infantil o de Educación Primaria. [2019/11482]/
 
- Artículo 43. Coordinadora o coordinador de las tecnologías de la información y comunicación 
+/Artículo 43. Coordinadora o coordinador de las tecnologías de la información y comunicación/
 
 1. La dirección del centro designará a la coordinadora o coordinador de las tecnologías de la información y comunicación (TIC), entre el profesorado del claustro, preferentemente entre los miembros con destino definitivo en el centro educativo y con formación y experiencia en el uso de las TIC, a propuesta de la dirección de estudios y oído el claustro. 
 
@@ -32,7 +38,8 @@ La persona coordinadora de las tecnologías de la información y comunicació
 
    f) Promover y asesorar al claustro en la integración de las TIC en la tarea docente y su incorporación a la planificación didáctica y proyectos de innovación. 
 
-   g) Asesorar en materia informática al resto del profesorado e informar de las actividades que se lleven a cabo en el aula o aulas de informática. 
+   g) Asesorar en materia informática al resto del profesor
+   ado e informar de las actividades que se lleven a cabo en el aula o aulas de informática. 
 
    h) Conocer, promover y asesorar a la comunidad educativa en el uso de las aplicaciones de gestión académica, administrativa y de comunicación que la Administración ponga al alcance de los centros educativos. 
 
@@ -44,10 +51,24 @@ La persona coordinadora de las tecnologías de la información y comunicació
 
    l) Cualquier otra que la Administración educativa determine en su ámbito de competencias.
 
+*** Fuente
+
+https://portal.edu.gva.es/ctic/es/coordinacion-tic/#2.1
 
 
+** ¿Conoces mejor tu ámbito de actuación?
 
-* ¿Conoces mejor tu ámbito de actuación?
-* ¿Se ha actualizado recientemente para recoger las últimas tendencias en las TIC?
-* ¿Es lo suficientemente amplia como para no necesitar una revisión frecuente?
-* ¿Hay algún punto que pueda ser conflictivo en cuanto a responsabilidades?
+Este ejercicio me ha servido para localizar la información y tenerla más a mano, aunque la conocía hacía tiempo que no la revisaba.
+
+** ¿Se ha actualizado recientemente para recoger las últimas tendencias en las TIC?
+
+Me parece que responde al objetivo que pretende abordar. Creo que poco a poco se va concretando la normativa propuesta por la Unión Europea. Aunque su implementación es lenta los diversos pasos que se van implementando creo que se realizan de manera bastante sólida.
+
+** ¿Es lo suficientemente amplia como para no necesitar una revisión frecuente?
+
+Creo que es suficientemente amplia, aunque los diferentes organismos que guian en su implemtación (AEPD, Conselleria, etc.) van concretando los contextos, sus funciones y limitaciones.
+
+** ¿Hay algún punto que pueda ser conflictivo en cuanto a responsabilidades?
+
+Por mi parte diría que la normativa es muy exigente, el trabajo de coordinación TIC es muy amplio, por lo que es difícil avanzar en el corto plazo.
+
